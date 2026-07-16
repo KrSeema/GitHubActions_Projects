@@ -1,5 +1,5 @@
 name: Deployment-Exercise
-on: push
+on: Workflow-dispatch
 jobs:
   job1:
     runs-on: ubuntu-latest
