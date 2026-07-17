@@ -5,7 +5,7 @@ on:
       - main
 defaults:
   run:
-    working-directory: ./Project_JobArtifacts&Output
+    working-directory: ./Project_JobArtifacts_Output
 jobs:
   test:
     runs-on: ubuntu-latest
